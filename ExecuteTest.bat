@@ -1,0 +1,1 @@
+mvn clean test -DtestngXML=Regression.xml
